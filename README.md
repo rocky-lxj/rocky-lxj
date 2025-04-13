@@ -1,15 +1,11 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
+
 ## [个人网址](https://rocky-lxj.github.io/)
 ## Hi there is me👋
 - 🌈 Name:
    -  EN: Rocky
    -  CN: 刘学军
 - 🎓 I am a student majoring in Data Science and Big Data Technology
-- 🔥 Interested in programming, crawling, and development.
+- 🔥 Interested in programming, crawling, 和 development.
 - ✨ I'm keen to share some of my learning and learn from outstanding ones.
 - 😄 Hobby:
   - 💪 running 4-6 times a week
